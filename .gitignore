@@ -238,3 +238,4 @@ pip-wheel-metadata/
 # ----------------------
 ~/.local/share/jupyter/runtime/
 
+modules/06-BioAssay-Data/pubchem_protacxn_P10828_bioactivity_protein.csv
